@@ -3,7 +3,7 @@ import { HiOutlineMenuAlt4 } from "react-icons/hi";
 const NavBar = () => {
   return (
     <nav
-      className={`flex justify-between items-center px-10 py-8 fixed left-0 right-0  text-white text-sm`}
+      className={`flex justify-between items-center px-10 py-8 fixed left-0 right-0 z-30  text-white text-sm`}
     >
       <HiOutlineMenuAlt4 className="text-2xl" />
 
