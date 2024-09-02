@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289828/car-rentals/Hyundai_svg_q1ixzy.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290093/car-rentals/crossover-red_1_1_hde9vr.png"
+        },
+        "name":"Hyundai"
+    },
+    {
+        "id":2,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289828/car-rentals/Audi_svg_xvee97.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290093/car-rentals/wagon-red_1_1_qdxf3e.png"
+        },
+        "name":"Audi"
+
+    },
+    {
+        "id":3,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289828/car-rentals/Tesla_svg_cv5eub.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290093/car-rentals/convertible-red_1_ayqghz.png"
+        },
+        "name":"Tesla"
+
+    },
+    {
+        "id":4,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289828/car-rentals/layer1_imjcgs.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290093/car-rentals/sedan-red_1_f91wqq.png"
+        },
+        "name":"Ford"
+
+    },
+    {
+        "id":5,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289828/car-rentals/Chevrolet_-_png_nczdrw.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290094/car-rentals/pickup-red_1_kklbra.png"
+        },
+        "name":"Chevrolet"
+
+    },
+    {
+        "id":6,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289828/car-rentals/Nissan_USA_svg_agrwzv.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290094/car-rentals/coup-red_1_ao5mzv.png"
+        },
+        "name":"Nissan"
+
+    },
+    {
+        "id":7,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289829/car-rentals/bmw_logo_icon_145840_1_x8fmet.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290094/car-rentals/compact-red_1_n27s5v.png"
+        },
+        "name":"Bmw"
+
+    },
+    {
+        "id":8,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289828/car-rentals/Kia_svg_fmhza2.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290094/car-rentals/sport-coupe-red_1_vu1agf.png"
+        },
+        "name":"Kia"
+
+    },
+    {
+        "id":9,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289829/car-rentals/Vector_3_gqv8u4.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290094/car-rentals/mpv-red_1_xdba9r.png"
+        },
+        "name":"Toyota"
+
+    },
+    {
+        "id":10,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289828/car-rentals/mercedes_benz_logo_icon_145798_1_jsximg.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290094/car-rentals/mpv-red_1_xdba9r.png"
+        },
+        "name":"Mercedes-Benz"
+
+    },
+    {
+        "id":11,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289829/car-rentals/Vector_4_ccyrkq.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290100/car-rentals/crossover-red_1_duo9q7.png"
+        },
+        "name":"TOYOTA"
+
+    },
+    {
+        "id":12,
+        "images":{
+            "webp":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725289829/car-rentals/Honda_svg_u3s61z.png",
+            "webp2":"https://res.cloudinary.com/dtlejpoxq/image/upload/v1725290101/car-rentals/suv-red_1_nexuol.png"
+        },
+        "name":"Honda"
+
+    }
+]

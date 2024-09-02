@@ -2,7 +2,7 @@ import React from "react";
 import { FaArrowRight } from "react-icons/fa";
 import data from "../../data.json";
 
-const BrandTypes = ({ title }) => {
+const BodyTypes = ({ title }) => {
   return (
     <div className="flex flex-col gap-10">
       <div className="flex justify-between font-bold">
@@ -19,8 +19,8 @@ const BrandTypes = ({ title }) => {
             className="flex flex-col justify-center items-center py-8 px-5 gap-2 bg-[#0F0F0F]/5 rounded-lg hover:bg-[#0F0F0F]/10"
           >
             <div className="justify-center items-center flex flex-col gap-5">
-              <img  className="h-[36px] w-" src={items.images.webp} alt="" />
-              <h3>{items.name}</h3>
+              <img  className="h-[36px] w-" src={items.images.webp2} alt="" />
+             
             </div>
           </div>
         ))}
@@ -29,4 +29,4 @@ const BrandTypes = ({ title }) => {
   );
 };
 
-export default BrandTypes;
+export default BodyTypes
