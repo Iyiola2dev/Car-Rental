@@ -25,7 +25,7 @@ const BrandTypes = ({ title }) => {
                 src={items.brandType.images.webp}
                 alt={items.brandType.name}
               />
-              <h3>{items.brandType.name}</h3>
+              <h3 className="font-semibold">{items.brandType.name}</h3>
             </div>
           </div>
         ))}
