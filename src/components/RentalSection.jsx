@@ -1,8 +1,11 @@
 import React from "react";
 
+import CarRentalSection from "./CarRentalSection";
+import { FaArrowRight } from "react-icons/fa";
+
 const RentalSection = () => {
   return (
-    <div className="bg-[#0F0F0F]/5 h-screen w-screen p-20 flex flex-col items-center gap-10 mt-[15rem]">
+    <div className="bg-[#0F0F0F]/5 h-fit w-screen py-20 px-10 flex flex-col items-center gap-10 mt-[15rem]">
       <div className="flex flex-col justify-center items-center gap-5 pt-6">
         <div className=" flex flex-col justify-center items-center w-[55%] text-center gap-3 ">
           <h1 className="font-semibold text-2xl">
@@ -32,6 +35,13 @@ const RentalSection = () => {
           </button>
         </div>
       </div>
+      <CarRentalSection />
+      <button className="border font-semibold text-sm rounded-3xl hover:bg-white hover:text-black text-white bg-black py-3 px-6 flex justify-center items-center gap-2">
+        <span> See all Cars</span>
+        
+          <FaArrowRight />
+        
+      </button>
     </div>
   );
 };
