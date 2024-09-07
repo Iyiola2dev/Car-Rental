@@ -5,7 +5,8 @@ import LuxuryRide from "../components/LuxuryRide";
 import AboutCars from "../components/AboutCars";
 import Review from "../components/Review";
 import DownloadSection from "../components/DownloadSection";
-import Footer from "../components/footer";
+import FooterSection from "../components/FooterSection";
+
 
 const Home = () => {
   return (
@@ -17,7 +18,7 @@ const Home = () => {
       <AboutCars/>
       <Review/>
       <DownloadSection/>
-      <Footer/>
+     <FooterSection/>
     </div>
   );
 };
