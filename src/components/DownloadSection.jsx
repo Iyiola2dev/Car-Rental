@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaGooglePlay } from "react-icons/fa";
 import { IoLogoApple } from "react-icons/io";
 

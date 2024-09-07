@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { BsDribbble, BsInstagram, BsTwitter, BsYoutube } from 'react-icons/bs'
 
 const Footer = () => {

@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaArrowRight } from "react-icons/fa";
 import data from "../../data.json";
 
