@@ -179,5 +179,29 @@
       },
       "name": "BMW X7 M50i 2022"
     }
-  }
-]
+  },
+  {
+  "reviews":{
+      "id": "1",
+      "text": "I was really impressed with the level of service I received from this car rental company. The process was smooth and easy, and the car I rented was in excellent condition. The staff was friendly and helpful, and I felt well taken care of throughout my rental period. I would definitely recommend this company to anyone looking for a premium car rental experience.",
+      "image": "https://res.cloudinary.com/dsjsvmug6/image/upload/v1725327021/Car_rentals/cars/profile/Ellipse_13_qqaiau.png",
+      "name": "Lokman Hossain",
+      "state": "From Texas"
+  }},
+    {
+    "reviews":{
+      "id": "2",
+      "text": "I had an outstanding experience with this car rental company. From the moment I made the reservation to when I returned the car, everything was seamless. The vehicle was spotless and performed excellently throughout my trip. The customer service team went above and beyond to ensure that I had everything I needed, making me feel valued as a customer. I highly recommend this company for anyone in search of a hassle-free and top-tier car rental service.",
+      "image": "https://res.cloudinary.com/dsjsvmug6/image/upload/v1725327095/Car_rentals/cars/profile/pexels-george-dolgikh-551816-1310522_zkb3wx.jpg",
+      "name": "Lokman Lucozade",
+      "state": "From Paris"
+    }},
+   { "reviews": {
+      "id": "3",
+      "text": "My experience with this car rental company was nothing short of exceptional. The booking process was straightforward, and I appreciated the transparency with pricing. The car was immaculate and exceeded my expectations in terms of comfort and performance. The team was attentive and responsive to my needs, ensuring that I had a worry-free rental period. I would gladly choose this company again for their reliable and high-quality service.",
+      "image": "https://res.cloudinary.com/dsjsvmug6/image/upload/v1725327094/Car_rentals/cars/profile/pexels-olly-774909_eurab8.jpg",
+      "name": "Sheperd Hossain",
+      "state": "From Houston"
+    }}
+  ]
+
